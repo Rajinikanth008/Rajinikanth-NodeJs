@@ -1,0 +1,19 @@
+{
+  "name": "rajinikanth-nodejs",
+  "version": "1.0.0",
+  "description": "Notes Regarding NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajinikanth008/Rajinikanth-NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajinikanth008/Rajinikanth-NodeJs/issues"
+  },
+  "homepage": "https://github.com/Rajinikanth008/Rajinikanth-NodeJs#readme"
+}
